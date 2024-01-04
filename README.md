@@ -1,4 +1,5 @@
-# Frog-and-Leap-game-in-python
+# prepinsta winter internship
+week2
 The Frog and Toad game you've implemented is a simple puzzle game. Here's the logic behind the game:
 
 1. **Initialization:**
